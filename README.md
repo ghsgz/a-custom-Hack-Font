@@ -2,7 +2,7 @@
 Modefied the Hack font "i" and "1" (hinted by ttfautohint)
 
 ## What does it look like
-> the image below is in Win10 Gvim(1366*768)
+the image is in Win10 Gvim(1366*768)
 ![screenshot](https://github.com/ghsgz/a-custom-Hack-Font/blob/master/screenshots/screenshot.png)
 
 ## QAs
