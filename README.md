@@ -1,16 +1,25 @@
-# a-custom-Hack-Font
+# A modified version of Hack font
 
 Modefied the [Hack font](https://github.com/source-foundry/Hack) with some characters like "i", "1" and "0" (hinted by ttfautohint)
 
 :point_right: goto [release page ](https://github.com/ghsgz/a-custom-Hack-Font/releases) to download and use.
 
-## What does it look like
+<br>
 
-in Win10 VSCode(2560\*1600)
-![screenshot](https://github.com/ghsgz/a-custom-Hack-Font/blob/master/screenshots/screenshot_2022.png)
+Previews:
 
-in Win10 Gvim(1366\*768)
-![screenshot](https://github.com/ghsgz/a-custom-Hack-Font/blob/master/screenshots/screenshot.png)
+<p align="center">
+  <img src="https://github.com/ghsgz/a-custom-Hack-Font/blob/master/screenshots/screenshot_2022.png" width="720"><br>
+  <code>in Win10 VSCode(2560*1600)</code><br>
+</p>
+
+<p align="center">
+  <img src="https://github.com/ghsgz/a-custom-Hack-Font/blob/master/screenshots/screenshot.png" max-width="720"><br>
+  <code>in Win10 Gvim(1366*768)</code><br>
+</p>
+
+
+<br>
 
 ## Notes
 
@@ -28,4 +37,6 @@ According to [issue 482](https://github.com/source-foundry/Hack/issues/482) from
 
 - Hack font is a great font for me! I :heart: Hack!
 - the orginal Hack font looks like below:
-![Hack font](https://sourcefoundry.org/hack/assets/img/mockup/Aa-mockup-2.png)
+<p align="center">
+  <img src="https://sourcefoundry.org/hack/assets/img/mockup/Aa-mockup-2.png" width="720">
+</p>
