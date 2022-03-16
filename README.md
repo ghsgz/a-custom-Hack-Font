@@ -40,3 +40,7 @@ According to [issue 482](https://github.com/source-foundry/Hack/issues/482) from
 <p align="center">
   <img src="https://sourcefoundry.org/hack/assets/img/mockup/Aa-mockup-2.png" width="720">
 </p>
+
+## License
+
+See [Hack#license](https://github.com/source-foundry/Hack#license).
